@@ -27,9 +27,9 @@ Dieses Repository enthält **nur Installationsdateien**. Der Quellcode ist nicht
 
 | Datei | Für |
 |---|---|
-| `KAM IPTV Player-<Version>-mac-arm64.dmg` | Mac mit Apple-Chip (M1 oder neuer) |
-| `KAM IPTV Player-<Version>-mac-x64.dmg` | Mac mit Intel-Prozessor (sofern veröffentlicht) |
-| `KAM IPTV Player-<Version>-win-x64.exe` | Windows 10 / 11, 64 Bit |
+| `KAM.IPTV.Player-Version>-mac-arm64.dmg` | Mac mit Apple-Chip (M1 oder neuer) |
+| `KAM.IPTV.Player-Version>-mac-x64.dmg` | Mac mit Intel-Prozessor (sofern veröffentlicht) |
+| `KAM.IPTV.Player-Version>-win-x64.exe` | Windows 10 / 11, 64 Bit |
 
 Zu jeder Version stehen die SHA-256-Prüfsummen aller Dateien in `SHA256SUMS.txt`.
 

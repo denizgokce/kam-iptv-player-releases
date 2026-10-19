@@ -27,9 +27,9 @@ Bu depoda **yalnızca kurulum dosyaları** var. Kaynak kodu açık değildir.
 
 | Dosya | Kimin için |
 |---|---|
-| `KAM IPTV Player-<sürüm>-mac-arm64.dmg` | Apple silicon'lu Mac (M1 ve sonrası) |
-| `KAM IPTV Player-<sürüm>-mac-x64.dmg` | Intel işlemcili Mac (yayımlandığında) |
-| `KAM IPTV Player-<sürüm>-win-x64.exe` | Windows 10 / 11, 64 bit |
+| `KAM.IPTV.Player-sürüm>-mac-arm64.dmg` | Apple silicon'lu Mac (M1 ve sonrası) |
+| `KAM.IPTV.Player-sürüm>-mac-x64.dmg` | Intel işlemcili Mac (yayımlandığında) |
+| `KAM.IPTV.Player-sürüm>-win-x64.exe` | Windows 10 / 11, 64 bit |
 
 Her sürümde dosyaların SHA-256 özetleri `SHA256SUMS.txt` içinde.
 
