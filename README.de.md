@@ -20,6 +20,7 @@
 > eigenen hinzu. Siehe [Haftungsausschluss](DISCLAIMER.de.md).
 
 Dieses Repository enthält **nur Installationsdateien**. Der Quellcode ist nicht öffentlich.
+Für Smartphones, Tablets und Android TV siehe [KAM IPTV für Android](https://github.com/denizgokce/kam-iptv-android-releases).
 
 ## Download
 

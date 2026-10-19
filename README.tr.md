@@ -20,6 +20,7 @@
 > eklersin. [Sorumluluk reddi](DISCLAIMER.tr.md)'ne bak.
 
 Bu depoda **yalnızca kurulum dosyaları** var. Kaynak kodu açık değildir.
+Telefon, tablet ve Android TV için [Android için KAM IPTV](https://github.com/denizgokce/kam-iptv-android-releases)'ye bak.
 
 ## İndirme
 
