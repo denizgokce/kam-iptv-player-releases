@@ -27,9 +27,9 @@ Open the [latest release](../../releases/latest) and pick the file for your comp
 
 | File | For |
 |---|---|
-| `KAM.IPTV.Player-version>-mac-arm64.dmg` | Mac with Apple silicon (M1 or later) |
-| `KAM.IPTV.Player-version>-mac-x64.dmg` | Mac with an Intel processor (when published) |
-| `KAM.IPTV.Player-version>-win-x64.exe` | Windows 10 / 11, 64-bit |
+| `KAM.IPTV.Player-<version>-mac-arm64.dmg` | Mac with Apple silicon (M1 or later) |
+| `KAM.IPTV.Player-<version>-mac-x64.dmg` | Mac with an Intel processor (when published) |
+| `KAM.IPTV.Player-<version>-win-x64.exe` | Windows 10 / 11, 64-bit |
 
 Each release lists the SHA-256 checksum of every file in `SHA256SUMS.txt`.
 
