@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>KAM IPTV Player</title>
+    <item>
+      <title>1.18.0</title>
+      <pubDate>Sun, 01 Nov 2026 16:57:48 GMT</pubDate>
+      <sparkle:version>1.18.0</sparkle:version>
+      <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+      <description><![CDATA[<h3>What's new</h3>
+<p><b>Updates inside the app (macOS)</b></p>
+<ul>
+<li><b>Settings → Updates → Check for Updates</b> finds a new version, downloads it, installs it and reopens the app. It is also in the app menu.</li>
+<li>The app looks for a new version only when you ask.</li>
+<li>This is the last version you install by hand on a Mac.</li>
+</ul>
+<p><b>Premium account</b></p>
+<ul>
+<li>Sign in with a QR code on your phone. The app still works fully without an account.</li>
+<li>Premium adds:</li>
+<li>posters, plots and ratings, with TMDB details in your language;</li>
+<li>AI suggestions and folder languages;</li>
+<li>subtitle and audio delay, and subtitle appearance;</li>
+<li>marking titles as watched by hand;</li>
+<li>picture in picture;</li>
+<li>a video info panel with file type, resolution, aspect ratio and codecs.</li>
+</ul>
+<p><b>Changed in this version</b></p>
+<ul>
+<li>Posters, plots and ratings from the metadata service now need Premium. Without an account, the app shows your provider's own names and artwork.</li>
+<li>Picture in picture and marking titles as watched by hand now need Premium too.</li>
+</ul>
+<p><b>Player</b></p>
+<ul>
+<li>Your audio track, subtitle track and delays come back when you resume a title, and your last subtitle language applies to other titles.</li>
+<li>The player's buttons moved to the top right, next to the volume.</li>
+</ul>
+<p><b>Library</b></p>
+<ul>
+<li>A new look, built for artwork.</li>
+<li>The newest episode comes first on a series page.</li>
+<li>Films and episodes you finished leave Recents.</li>
+<li>With folder languages on, all 18+ folders form one group.</li>
+</ul>
+<h3>Installing</h3>
+<p><b>macOS:</b> open the <code>.dmg</code> and drag the app into <b>Applications</b>. Open it from there. The first time, macOS may block it: go to <b>System Settings → Privacy &amp; Security</b> and choose <b>Open Anyway</b>.</p>
+<p><b>Windows:</b> run the <code>.exe</code>; if SmartScreen appears, choose <b>More info → Run anyway</b>. Windows has no in-app updates: install each new version the same way.</p>
+<p>Bring your own playlist — no content is included. See the [disclaimer](../../blob/main/DISCLAIMER.md).</p>]]></description>
+      <enclosure url="https://github.com/denizgokce/kam-iptv-player-releases/releases/download/v1.18.0/KAM.IPTV.Player-1.18.0-mac-arm64.dmg" type="application/octet-stream" sparkle:edSignature="C1i4F+cUXkSwW/qxDzNU3k/9TdZv4Nf2Z9KDg2nUN8Qq/J6ckP3lK5cEmBnZP5pvbFW0De5WYHL3I0lcrcOOCw==" length="158625062" />
+    </item>
+  </channel>
+</rss>
